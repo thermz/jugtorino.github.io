@@ -24,6 +24,10 @@ Presso [CELI S.r.L.](/places/celi/)
 Registra la tua presenza su [JUG Events](http://www.jugevents.org/jugevents/event/55728)
 per **confermare la tua presenza al meeting**.
 
+#### [Slide](https://onedrive.live.com/view.aspx?cid=a74ae96d0b95b7fa&page=view&resid=A74AE96D0B95B7FA!112&parId=A74AE96D0B95B7FA!104&app=PowerPoint) 
+
+#### [Esempi](https://github.com/thermz/JugTorinoExamples)
+
 #### Posso avere un altro riferimento ?
 
 La [mailing list](https://groups.yahoo.com/groups/it-torino-java-jug) è il riferimento principale,
